@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently a senior at Indian Institute of Technology, Guwahati, with my major in Electronics and Communication
-- 🌱 I’m currently learning node.js and deep learning
+- 🔭 I’m an Indian Institute of Technology, Guwahati graduate, with my major in Electronics and Communication
+- 🌱 I’m currently learning java and blockchain solutions with an emphasis on identity solutions
 - I'm a proponent of Strong AI, though Searle's chinese room is a quite interesting take on what constitutes as cognition.
 - 👯 I would love to collaborate with like minded people in AI, Quantum Computing and Data Science.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aryan-verma-99b3a1195/)
